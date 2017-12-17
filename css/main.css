@@ -1,0 +1,16 @@
+ /*I want my content to be clearly visible with the contrast of my background.*/
+  body {
+  	background-color: teal;
+  }
+  /*I have two different divs (regular and div.dbl) so it can work when the user doubleclicks on the div.*/
+  div {
+    background: gold;
+    color: white;
+    height: 150px;
+    width: 150px;
+ }
+  div.dbl {
+    background: maroon;
+    color: black;
+  }
+
